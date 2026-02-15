@@ -119,8 +119,8 @@ $data = [
     'documentInfo' => [
         'subject' => 'Example PDF',
         'title' => 'Example PDF Rendering',
-        'creator' => 'Twocream',
-        'author' => 'Twocream',
+        'creator' => 'lucaspl3tti',
+        'author' => 'lucaspl3tti',
     ],
     'templates' => [
         'templateMain' => '/templates/template_example.pdf',
